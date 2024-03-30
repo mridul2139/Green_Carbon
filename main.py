@@ -9,7 +9,7 @@ EMISSION_FACTORS = {
 
 # Set wide layout and page name
 st.set_page_config(layout="wide", page_title="Green Carbon Calculator")
-image_path = r"C:\Users\HP\Downloads\LOG-removebg-preview.png"  # Assuming the image is in the same directory as the script
+image_path = r"https://github.com/mridul2139/Green_Carbon/blob/main/LOG-removebg-preview.png"  # Assuming the image is in the same directory as the script
 st.image(image_path, width=175)
 # Streamlit app code
 st.title("Digital Carbon Calculator")
