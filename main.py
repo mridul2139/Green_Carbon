@@ -10,7 +10,7 @@ EMISSION_FACTORS = {
 st.set_page_config(layout="wide", page_title="Green Carbon Calculator")
 
 # Streamlit app code
-st.title("📈 Digital Carbon Calculator")
+st.title("Digital Carbon Calculator")
 # User inputs
 col1, col2 = st.columns(2)
 with col1:
