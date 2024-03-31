@@ -59,7 +59,5 @@ if st.button("Calculate CO2 Emissions"):
     with col4:
         st.subheader("Total Carbon Footprint")
         st.success(f"🌍 Your total carbon footprint is: {total_emissions} tonnes CO2 per year")
-        st.warning(f"To offset {total_emissions} tonnes of carbon emissions, it would require planting {round(total_emissions * 100)} trees🌳.")
-
-# Display the image in your Streamlit app
-
+        st.warning(f"To offset {total_emissions} tonnes of carbon emissions, it would require planting {round(total_emissions * 50)} trees🌳.")
+        st.markdown("Want to Know More! Check this Out⏩"+"[LINK](https://www.grow-trees.com/carbon-offset.php)")
