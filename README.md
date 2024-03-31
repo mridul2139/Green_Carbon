@@ -46,8 +46,9 @@ This will install Streamlit and any dependencies it requires inside your virtual
 
 
 # Sources
-<a href="[https://www.grow-trees.com/carbon-offset.php]"> Link 1</a>
-<a href="[https://medium.com/stanford-magazine/carbon-and-the-cloud-d6f481b79dfe]"> Link 2</a>
+<a href="https://www.grow-trees.com/carbon-offset.php">Link 1</a>
+<br>
+<a href="https://medium.com/stanford-magazine/carbon-and-the-cloud-d6f481b79dfe">Link 2</a>
 
 
 
